@@ -2,4 +2,4 @@
 
 Hello World!
 
-Note sure what to make at this point.
+Not sure what to make at this point.
